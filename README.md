@@ -62,12 +62,12 @@ Esta rutina es una simple aplicación de Node.js que convierte un archivo HTML e
 
 El proyecto tiene la siguiente estructura de directorios:
 
-html-to-docx-project/
-│
-├── node_modules/
-├── index.js
-├── package.json
-└── package-lock.json
+- html-to-docx-project/
+- │
+- ├── node_modules/
+- ├── index.js
+- ├── package.json
+- └── package-lock.json
 
 
 
