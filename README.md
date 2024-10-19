@@ -64,10 +64,10 @@ El proyecto tiene la siguiente estructura de directorios:
 
 - html-to-docx-project/
 - │
-- ├── node_modules/
-- ├── index.js
-- ├── package.json
-- └── package-lock.json
+- - ├── node_modules/
+- - - ├── index.js
+- - - ├── package.json
+- - - └── package-lock.json
 
 
 
